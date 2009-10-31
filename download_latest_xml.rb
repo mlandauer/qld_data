@@ -30,13 +30,5 @@ end
 
 repo = Grit::Repo.new(data_repository)
 
-# Find out if anything has changed
-#repo.status.untracked.each do |k, file|
-#  puts "File #{file.path} has been added..." if file.path =~ /xml$/i
-#end
-#repo.status.changed.each do |k, file|
-#  puts "File #{file.path} has changed..." if file.path =~ /xml$/i
-#end
-
 repo.add("*.xml")
 repo.commit_index("File automatically downloaded and committed on #{Time.now}")
