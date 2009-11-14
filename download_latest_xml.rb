@@ -30,6 +30,8 @@ end
 
 repo = Grit::Repo.new(data_repository)
 
-repo.add("*.xml")
-repo.commit_index("File automatically downloaded and committed on #{Time.now}")
-repo.git.push
+Dir.chdir(data_repository) do
+  repo.add("*.xml")
+  repo.commit_index("File automatically downloaded and committed on #{Time.now}")
+  repo.git.push
+end
