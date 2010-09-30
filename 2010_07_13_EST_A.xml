@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="2010_07_13_EST A.css" type="text/css" charset="UTF-8"?>
+<?xml-stylesheet href="2010_07_13_EST_A.css" type="text/css" charset="UTF-8"?>
 <XML>
 <TITLE> </TITLE><Hansard-Date-Heading>
 <A ID="pgfId-998290"></A>
 Tuesday, 13 July 2010<DIV>
-<IMAGE xml:link="simple" href="2010_07_13_EST A-1.gif" show="embed" actuate="auto"/>
+<IMAGE xml:link="simple" href="2010_07_13_EST_A-1.gif" show="embed" actuate="auto"/>
 </DIV>
 </Hansard-Date-Heading>
 <LegAssembly>
@@ -40,7 +40,7 @@ Mr WE Wendt</Hansard-Body>
 <Hansard-Divider>
 <A ID="pgfId-1002364"></A>
 <DIV>
-<IMAGE xml:link="simple" href="2010_07_13_EST A-1.gif" show="embed" actuate="auto"/>
+<IMAGE xml:link="simple" href="2010_07_13_EST_A-1.gif" show="embed" actuate="auto"/>
 </DIV>
 </Hansard-Divider>
 <Hansard-Level-2-Heading>
@@ -64,12 +64,12 @@ Mr C Atkinson, Manager, Financial and Administrative Services</Hansard-Body>
 <Hansard-Divider>
 <A ID="pgfId-1002371"></A>
 <DIV>
-<IMAGE xml:link="simple" href="2010_07_13_EST A-1.gif" show="embed" actuate="auto"/>
+<IMAGE xml:link="simple" href="2010_07_13_EST_A-1.gif" show="embed" actuate="auto"/>
 </DIV>
 </Hansard-Divider>
 <LegAssembly>
 <A ID="pgfId-1001386"></A>
-Estimates Committee A--Legislative Assembly (Proof)</LegAssembly>
+Estimates Committee A--Legislative Assembly</LegAssembly>
 <Hansard-Body>
 <A ID="pgfId-998303"></A>
 <Hansard-Bold>
@@ -571,10 +571,10 @@ In Attendance</Hansard-Level-2-Heading>
 Hon. AM Bligh, Premier and Minister for the Arts</Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1006511"></A>
-Mr L Smith, Senior Policy Advisor</Hansard-Body>
+Mr L Smith, Senior Policy Adviser</Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1006512"></A>
-Mr D Wilson, Senior Policy Advisor</Hansard-Body>
+Mr D Wilson, Senior Policy Adviser</Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1014806"></A>
 <Hansard-Bold>
@@ -603,12 +603,12 @@ Ms S Rowlands, Executive Director, Arts Strategy Coordination</Hansard-Body>
 <Hansard-Divider>
 <A ID="pgfId-1006515"></A>
 <DIV>
-<IMAGE xml:link="simple" href="2010_07_13_EST A-1.gif" show="embed" actuate="auto"/>
+<IMAGE xml:link="simple" href="2010_07_13_EST_A-1.gif" show="embed" actuate="auto"/>
 </DIV>
 </Hansard-Divider>
 <LegAssembly>
 <A ID="pgfId-1014815"></A>
-Estimates Committee A--Premier and Cabinet and the Arts (Proof)</LegAssembly>
+Estimates Committee A--Premier and Cabinet and the Arts</LegAssembly>
 <Hansard-Body>
 <A ID="pgfId-1014813"></A>
 <Hansard-Bold>
@@ -2281,12 +2281,12 @@ Ms S Ryan, Chief Finance Officer, Corporate Services</Hansard-Body>
 <Hansard-Divider>
 <A ID="pgfId-1031034"></A>
 <DIV>
-<IMAGE xml:link="simple" href="2010_07_13_EST A-1.gif" show="embed" actuate="auto"/>
+<IMAGE xml:link="simple" href="2010_07_13_EST_A-1.gif" show="embed" actuate="auto"/>
 </DIV>
 </Hansard-Divider>
 <LegAssembly>
 <A ID="pgfId-1031035"></A>
-Est. Committee A--Treasury &amp; Employment &amp; Economic Development (Proof)</LegAssembly>
+Estimate Committee A--Treasury &amp; Employment &amp; Economic Development</LegAssembly>
 <Hansard-Body>
 <A ID="pgfId-1031083"></A>
 <Hansard-Bold>
@@ -3623,10 +3623,10 @@ Mr M Grierson, Director-General</Hansard-Body>
 Mr M Smith, Deputy Director-General, Works</Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1068953"></A>
-Ms E Jelliffe, Executive Director, Queensland Government Chief Procurement Office</Hansard-Body>
+Ms E Jelliffe, Queensland Government Chief Procurement Officer</Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1068954"></A>
-Ms N MacDonald, Associate Director-General, ICT Division</Hansard-Body>
+Ms N MacDonald, Associate Director-General</Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1068955"></A>
 Mr T Skippington, General Manager, CITEC</Hansard-Body>
@@ -3639,12 +3639,12 @@ Mr J Fennell, Assistant Director, Finance, Corporate and Executive Services</Han
 <Hansard-Divider>
 <A ID="pgfId-1068871"></A>
 <DIV>
-<IMAGE xml:link="simple" href="2010_07_13_EST A-1.gif" show="embed" actuate="auto"/>
+<IMAGE xml:link="simple" href="2010_07_13_EST_A-1.gif" show="embed" actuate="auto"/>
 </DIV>
 </Hansard-Divider>
 <LegAssembly>
 <A ID="pgfId-1068872"></A>
-Estimates Committee A--Public Works and ICT (Proof)</LegAssembly>
+Estimates Committee A--Public Works &amp; Info. &amp; Communication Technology</LegAssembly>
 <Hansard-Body>
 <A ID="pgfId-1068849"></A>
 <Hansard-Bold>
@@ -3687,10 +3687,10 @@ The jobs created by government projects have saved building companies, kept buil
 A big challenge this year has undoubtedly been the Health payroll implementation. There is no doubt that the implementation of the Health payroll system was not well managed. The Auditor-General has tabled a report on the shortcomings, KPMG has undertaken work on improving the health department’s business processes and PWC is reviewing the strengths and weaknesses of the shared services model. We will obviously respond to the government’s directions from these reviews and reports. However, I can assure you that our CorpTech and CITEC officers have again worked around the clock since the cut-off at noon last Sunday to make sure that pay cycle No. 9 is in bank accounts for over 78,000 Health employees tomorrow morning. I expect that you will want to pursue this project in more detail later on. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1064835"></A>
-However, along with the challenges we have also had successes with our major projects area. Kurilpa Bridge and Kangaroo Point Park are two iconic projects that have been completed this year. The bridge was a finalist in this year’s national construction awards and is testimony to our local architects Cox Rayner and the builders Baulderstone. </Hansard-Body>
+However, along with the challenges we have also had successes within our major projects area. Kurilpa Bridge and Kangaroo Point Park are two iconic projects that have been completed this year. The bridge was a finalist in this year’s national construction awards and is testimony to our local architects Cox Rayner and the builders Baulderstone. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1064840"></A>
-In the area of budget savings, the department continued to make whole-of-government savings in general procurement, capital works, construction activities, accommodation leasing, ICT procurement, vehicle procurement and energy consumption across government. In the regional areas of Queensland we have been involved in a massive construction program, particularly delivering important schools and hospitals. </Hansard-Body>
+In the area of budget savings, the department continued to make whole-of-government savings in general procurement, capital works construction activities, accommodation leasing, ICT procurement, vehicle procurement and energy consumption across government. In the regional areas of Queensland we have been involved in a massive construction program, particularly delivering important schools and hospitals. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1064841"></A>
 Another important success is the delivery of the first 45 new dwellings in Indigenous communities in North Queensland. This program has faced huge difficulties with wet weather making some sites inaccessible, land tenure and native title issues to be addressed and major infrastructure concerns. With the assistance of 146 local Indigenous employees this has been an outstanding effort. </Hansard-Body>
@@ -3727,7 +3727,7 @@ I have actually met those people face to face. I have met the payroll people who
 Tomorrow, the agency that I am responsible for will have delivered 78,000 pays into people’s bank accounts. What the opposition has consistently said is that the SAP system does not work. That is the same system that this week delivered 85,000 group certificates to health workers. That is the same system that is ensuring people are paid. This is the same system that the opposition has consistently complained about. My view is that you ought to sit down with those involved in SAP and make known to them what your specific criticisms of SAP are. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1064859"></A>
-I refer to the ill-informed comments made by the shadow minister about Workbrain and SAP not working together. Let me advise the committee that Australia Post uses that very same configuration. Again, the criticism that you have made about that being put together is incorrect. That decision was made, from my understanding, well before I became the minister or the current health minister became the minister responsible for any of this. The reality is very simple: those payroll systems do work. The advice from KPMG at the time was that the IBM contract could be accepted because that configuration did work. </Hansard-Body>
+I refer to the ill-informed comments made by the shadow minister about Workbrain and SAP not working together. Let me advise the committee that Australia Post will use that very same configuration. Again, the criticism that you have made about that being put together is incorrect. That decision was made, from my understanding, well before I became the minister or the current health minister became the minister responsible for any of this. The reality is very simple: those payroll systems do work. The advice from KPMG at the time was that the IBM contract could be accepted because that configuration did work. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1064861"></A>
 All of those comments that you continue to make, blaming the people who work in CorpTech for not paying nurses, I think show a lack of understanding about the technology. I have never, ever said that there is not something wrong with the payroll system. I certainly apologise for any role we might have had in that. But I certainly make no apology for the hardworking people who work in CorpTech who have worked 24 hours a day, seven days a week to make this work. </Hansard-Body>
@@ -3869,7 +3869,7 @@ Mr SCHWARTEN:</Hansard-Member-Up>
 <A ID="pgfId-1064969"></A>
 <Hansard-Bold>
 Mr Grierson:</Hansard-Bold>
- Mrs Stuckey, I am aware that the Health director-general did terminate the contract or contracts of two individuals. At the time I asked the general manager of CorpTech to meet with me. I asked her to show me the material that was presented to her at that board meeting, which she did. I saw a document which was presented by the independent assurance adviser to Queensland Health. That document said--and it had green all over it--‘business readiness, green, ready to go live’; ‘date of migration, green, ready to go live’; ‘training of staff, green, ready to go live’; ‘user acceptance, green, ready to go live’. There were about 15 categories. Of those 15 categories, there was only one--should I continue?</Hansard-Body>
+ Mrs Stuckey, I am aware that the Health director-general did terminate the contract or contracts of two individuals. At the time I asked the general manager of CorpTech to meet with me. I asked her to show me the material that was presented to her at that board meeting, which she did. I saw a document which was presented by the independent assurance adviser to Queensland Health. That document said--and it had green all over it--‘business readiness, green, ready to go live’; ‘data migration, green, ready to go live’; ‘training of staff, green, ready to go live’; ‘user acceptance, green, ready to go live’. There were about 15 categories. Of those 15 categories, there was only one--should I continue?</Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1064972"></A>
 <Hansard-Member-Up>
@@ -3956,7 +3956,7 @@ CHAIR:</Hansard-Bold>
 <A ID="pgfId-1065008"></A>
 <Hansard-Member-Up>
 Mr SCHWARTEN:</Hansard-Member-Up>
- Yes. I thank you for the question, and it is important that we get this on the record. I thought that the Premier had indicated to the Leader of the Opposition that he might like to ask me that question. In fact, I had to get it asked myself. The reality is that I have been to many functions since April and all of those are very necessary parts of my portfolio, and I will just highlight a few of them. I have been to a function with Microsoft, Master Builders, AAPT, business breakfasts with the CQCIO, a Queensland budget luncheon, a Queensland downtown breakfast with the Property Council, another Master Builders executive lunch and the lunch that is referred to by the honourable member. The following day, on the 30th, I went to a breakfast of the chief information officers with the Australian Computer Society. I might add that after that I went to a function where I had three Jatz biscuits with the people who work at CorpTech. I went to a CEDA and Bovis Lend Lease boardroom luncheon on Tuesday, 6 July. Tomorrow I will be at a board of engineers lunch.</Hansard-Body>
+ Yes. I thank you for the question, and it is important that we get this on the record. I thought that the Premier had indicated to the Leader of the Opposition that he might like to ask me that question. In fact, I had to get it asked myself. The reality is that I have been to many functions since April and all of those are very necessary parts of my portfolio, and I will just highlight a few of them. I have been to a function with Microsoft, Master Builders, AAPT, business breakfasts with the CQCIO, a Queensland budget luncheon, a Queensland downtown breakfast with the Property Council, another Master Builders executive lunch and the lunch that is referred to by the honourable member. The following day, on the 30th, I went to a breakfast of the chief information officers with the Australian Computer Society. I might add that after that I went to a function where I had three Jatz biscuits with the people who work at CorpTech. I went to a CEDA and Bovis Lend Lease boardroom luncheon on Tuesday, 6 July. Tomorrow I will be at a Board of Engineers lunch.</Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1069322"></A>
 There is another Bovis Lend Lease function at Carseldine next week. There is one with Leighton’s and then there is the Premier’s AIIA and ASC lunch that I am expected to attend also. That is over a period since about April. I do not think that is excessive, but I think what it does show is the cheap shot that the Leader of the Opposition made here today. </Hansard-Body>
@@ -4133,7 +4133,7 @@ Mr SCHWARTEN:</Hansard-Member-Up>
  Yes. I was there last week. As I mentioned before, on Wednesday morning I went to breakfast at six o’clock with the workers at the Gold Coast Hospital and I was at Carrara after that. It is shaping up to be a great stadium. Watpac has the job. The crowd that it will hold is 25,000. They are well and truly in advance on the job. They have run into some steel difficulties on one side but they are compensating for that by pushing the project ahead on the other stand. The issues on that site--there have been issues on that site with industrial issues that have been raised with me by the BLF and the CFMEU--are being addressed. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1069368"></A>
-One of the great innovations in this is the solar gas panelling which will go on the top. I think it will look a pretty schmick sort of an operation. It has a wave type of effect on the roof. I saw the glass last week that will hold the PV cells. They are manufacturing that in Holland. One of the project managers is over there at the moment. There is competition between them and China as to who makes them and the Dutch have won it. So that glass will be brought out from Holland. So it will be an ecofriendly stadium. </Hansard-Body>
+One of the great innovations in this is the solar glass panelling which will go on the top. I think it will look a pretty schmick sort of an operation. It has a wave type of effect on the roof. I saw the glass last week that will hold the PV cells. They are manufacturing that in Holland. One of the project managers is over there at the moment. There is competition between them and China as to who makes them and the Dutch have won it. So that glass will be brought out from Holland. So it will be an ecofriendly stadium. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1069369"></A>
 <Hansard-Bold>
@@ -4175,7 +4175,7 @@ Mr SCHWARTEN:</Hansard-Member-Up>
  Yes, I can. I thank you, honourable member, for your question on it, because you and I were out there together. A number of the project managers said that they were living in Ipswich as a result of that project. So Ipswich gets a corner out of it as well, but not nearly as much as Gatton does. This is a $485 million facility on a 683-hectare site and it is being built by the same people who built the Kurilpa Bridge--that is Baulderstone. The construction is almost 70 per cent complete. It is on program for completion in December 2011. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1073302"></A>
-The services fit-offs are continuing, joinery, insulation and finishing trades are in progress and the secure perimeter fence is 90 per cent complete. There are 3,660 full-time jobs. Again, these are not jobs that grow on trees. These are jobs that are real. These are real people who take home pay packets to feed their families. I was up at Lotus Glen earlier this year. I intend to go back there again this year. It is a $450 million project. This is a very difficult one. There is an existing prison at Gatton which is a greenfield site, as you know, and, member for Ipswich West, you also accompanied me out at that project. That is being built by Thiess. As I say, it is a much more complicated project, but one of the cornerstones of what we are doing is ecologically sustainable development. It is using recycled water in the cooling towers, energy efficient lighting, vacuum toilet systems and so on. </Hansard-Body>
+The services fit-offs are continuing, joinery, insulation and finishing trades are in progress and the secure perimeter fence is 90 per cent complete. There are 3,660 full-time jobs. Again, these are not jobs that grow on trees. These are jobs that are real. These are real people who take home pay packets to feed their families. I was up at Lotus Glen earlier this year. I intend to go back there again this year. It is a $450 million project. This is a very difficult one. This is an existing prison, whereas Gatton is a greenfield site, as you know, and, member for Ipswich West, you also accompanied me out at that project. That is being built by Thiess. As I say, it is a much more complicated project, but one of the cornerstones of what we are doing is ecologically sustainable development. It is using recycled water in the cooling towers, energy efficient lighting, vacuum toilet systems and so on. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1073303"></A>
 While I am talking about capital works, I want to mention a couple of our other projects that the shadow minister put out a media release on. The member said that the Maroochydore government office building had been slashed by $12 million. Do you recall saying that, shadow minister? It is actually $12 million under budget. They are savings in the project. The Boggo Road precinct was running way behind schedule, you said. It is not. I am informed it has always been within the agreed construction program. The Ecosciences Precinct is five months ahead of schedule. I notice you are nodding your head against this, but that is what you put out after the budget. It is untrue and I ask you to correct the record accordingly at your first available opportunity. </Hansard-Body>
@@ -4280,7 +4280,7 @@ Mr SCHWARTEN:</Hansard-Member-Up>
 <A ID="pgfId-1073324"></A>
 <Hansard-Bold>
 Mr Grierson:</Hansard-Bold>
- Again, I think we are confusing a few different programs here. The Shared Service Agency was established by Treasury. The logic behind that was that by consolidating particular back-of-house functions of government like payroll, finance, mail and other functions, there would be savings. The figure identified by Treasury at the time--and again we are going back to 2003 or 2004 I think here when it was in Treasury--was $100 million it expected to save. What Treasury then did was to allocate over the years certain amounts of money that the Shared Service Agency had to provide as a dividend to Treasury to make up those $100 million savings. </Hansard-Body>
+ Again, I think we are confusing a few different programs here. The Shared Service Agency was established by Treasury. The logic behind that was that by consolidating particular back-of-house functions of government like payroll, finance, mail and other functions, there would be savings. The figure identified by Treasury at the time--and again we are going back to 2003 or 2004 I think here when it was in Treasury--was $100 million it expected to save. What Treasury then did was to allocate over the years certain amounts of money that the Shared Service providers had to provide as a dividend to Treasury to make up those $100 million savings. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1073325"></A>
 The Shared Service Agency has continued to provide those dividends as it makes savings each year. Now, where it gets its money from is the fees that are paid or were quarantined from the agencies that performed those functions initially. So, in Public Works I may have spent $8 million a year--that is just a figure, I am not sure if that is the accurate figure--but say I spent $8 million a year on those functions, that $8 million was taken from me by Treasury and put over to pay for the people who left my department and went into the Shared Service Agency, </Hansard-Body>
@@ -4293,7 +4293,7 @@ Mr SCHWARTEN:</Hansard-Member-Up>
 <A ID="pgfId-1073327"></A>
 <Hansard-Bold>
 Mr Grierson:</Hansard-Bold>
- 2003, something like that. It was in Treasury at the time. The same thing happened with CorpTech. When CorpTech was established in Treasury it was established as the technical arm to manage the systems that ran all those finance systems, payroll systems and what have you. The way they funded CorpTech, and this is where the $900 million comes in, is that they said to every director-general, ‘You are spending’--in my case say $20 million a year--‘on the technical support of the finance and HR systems that you are running in your department. We are going to take that money and we are going to consolidate that because we have now consolidated the support functions in CorpTech.’ So that is where the $900 million came from. It was money that the agencies were spending and would have continued to spend on supporting those systems with software licences, purchase of hardware, payment for networks and payment for maintenance and support of all the software products. That money was moved across to CorpTech and that is the money that they have got to spend on those same functions. That is where the $100 million came from in Shared Services and where the $900 million came from in CorpTech. </Hansard-Body>
+ 2003, something like that. It was in Treasury at the time. The same thing happened with CorpTech. When CorpTech was established in Treasury it was established as the technical arm to manage the systems that ran all those finance systems, payroll systems and what have you. The way they funded CorpTech, and this is where the $900 million comes in, is that they said to every director-general, ‘You are spending’--in my case say $20 million a year--‘on the technical support of the finance and HR systems that you are running in your department. We are going to take that money and we are going to consolidate that because we have now consolidated the support functions in CorpTech.’ So that is where the $900 million came from. It was money that the agencies were spending and would have continued to spend on supporting those systems with software licences, purchase of hardware, payment for networks and payment for maintenance and support of all the software products. That money was moved across to CorpTech and that is they money that they have got to spend on those same functions. That is where the $100 million came from in Shared Services and where the $900 million came from in CorpTech. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1073328"></A>
 <Hansard-Member-Up>
@@ -4591,7 +4591,7 @@ CHAIR:</Hansard-Bold>
 <A ID="pgfId-1077563"></A>
 <Hansard-Bold>
 Mr Grierson:</Hansard-Bold>
- Certainly. I apologise. What I was trying to say was that, even though the actual schedule of the consolidation has gone back, there have been things undertaken that have been successful. The internet service provision consolidation has occurred. The dark fibre consolidation has occurred. Polaris Data Centre is now 40 per cent full. It has occurred. We have consolidated our application methodologies. That has occurred. So we have slipped in the schedule in the actual software that we are putting in place, but most of the projects individually are in place. </Hansard-Body>
+ Certainly. I apologise. What I was trying to say was that, even though the actual schedule of the consolidation has gone back, there have been things undertaken that have been successful. The internet service provision consolidation has occurred. The dark fibre consolidation has occurred. Polaris Data Centre is now 40 per cent full. It has occurred. We have consolidated our application methodologies. That has occurred. So we have slipped in the schedule in the actual infrastructure that we are putting in place, but most of the projects individually are in place. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1077565"></A>
 <Hansard-Member-Up>
@@ -4651,10 +4651,10 @@ Mr HOOLIHAN:</Hansard-Member-Up>
 <A ID="pgfId-1081939"></A>
 <Hansard-Member-Up>
 Mr SCHWARTEN:</Hansard-Member-Up>
- If you look across the road at the Public Works building, we have a trial project running there. I intend to put it on my house in Rockhampton, which is being renovated. I guess the best example is at our Zillmere Joint Contact Centre, where we run shared services with the police. I have some details on that. The design was for 80 kilowatts of solar PV. It is anticipated that overall the installation at the facility will provide up to 450 kilowatts of solar energy. It is basically a small power station.</Hansard-Body>
+ If you look across the road at the Public Works building, we have a trial project running there. I intend to put it on my house in Rockhampton, which is being renovated. I guess the best example is at our Zillmere Joint Contact Centre, where we run Smart Service with the police. I have some details on that. The design was for 80 kilowatts of solar PV. It is anticipated that overall the installation at the facility will provide up to 450 kilowatts of solar energy. It is basically a small power station.</Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1081941"></A>
-In Cairns, at William McCormack Place there are 64 kilowatt solar panels to be mounted on the roof of stage 2. The Maroochydore government building will have 58 kilowatt solar PV panels. Of course TI has plenty of sunlight, and 30 kilowatt panels will be installed there, and 30 kilowatt panels at Mareeba. I mentioned 80 George Street, our own building, where we have panels with a collective rated output of 7.2 kilowatts, generating 12.169 kilowatts. Aside from the Carrara Stadium, the Kurilpa Bridge is the best and the latest example. Its capacity to run its own power is great. In the climate that we live in it makes so much sense to use solar energy. I think it is bright ideas that we have. </Hansard-Body>
+In Cairns, at William McCormack Place there are 64 kilowatt solar panels to be mounted on the roof of stage 2. The Maroochydore government building will have 58 kilowatt solar PV panels. Of course TI has plenty of sunlight, and 30 kilowatt panels will be installed there, and 30 kilowatt panels at Mareeba. I mentioned 80 George Street, our own building, where we have panels with a collective rated output of 7.2 kilowatts, generating 12,169 kilowatts. Aside from the Carrara Stadium, the Kurilpa Bridge is the best and the latest example. Its capacity to run its own power is great. In the climate that we live in it makes so much sense to use solar energy. I think it is bright ideas that we have. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1081942"></A>
 <Hansard-Bold>
@@ -4687,12 +4687,12 @@ Mr SCHWARTEN:</Hansard-Member-Up>
  I thank you for the question and for blaming unfairly the shadow minister; that is my job. I did make the point that she asked a question but got the Polaris Data Centre in the answer. I officially opened the data centre on 3 February 2009. It is situated at Springfield. It is a Tier3-plus data centre with 190 computer equipment racks housed on the data floor. All operational equipment from the government’s previous disaster recovery site managed by CITEC at the HDS Windsor data centre has been migrated to Polaris. Agencies currently housing ICT systems at Polaris include the Department of Transport and Main Roads, Education Queensland, the Queensland Police Service, the public safety network, the Department of Public Works, including CorpTech, the Public Trustee and the Department of Infrastructure and Planning. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1081952"></A>
-A summary of the key Polaris statistics would include lease space consisting of 2,300 square metres. The initial fitout was completed in May 2009. The initial power capacity available was 1.6 megs. Currently, 40 per cent of the powered floor space capacity is occupied, as the DG advised previously. It is projected that there will be 90 per cent utilisation of powered floor space capacity by December 2011, I am advised. I put that in, because that is what I am advised. Power capacity can be uplifted to three megs on request. Currently, 190 computer equipment racks are housed there and that is projected to reach 341 racks by June 2011. Approximately 281 hardware devices are installed, including mainframe super domain servers, network switch devices, blade enclosures, a tape library, storage area network and storage devices. There are six data storage silos currently installed, comprising 558 terabytes of storage. Critical systems such as CorpTech’s finance and payroll systems and Transport’s licence and registration systems use cross-site data replication, cross-site data backup and cross-site server disaster recovery. With the 317 Edward Street CITEC site, Polaris take-up is planned and progressing ahead of schedule. </Hansard-Body>
+A summary of the key Polaris statistics would include lease space consisting of 2,300 square metres. The initial fitout was completed in May 2009. The initial power capacity available was 1.6 megabytes. Currently, 40 per cent of the powered floor space capacity is occupied, as the DG advised previously. It is projected that there will be 90 per cent utilisation of powered floor space capacity by December 2011, I am advised. I put that in, because that is what I am advised. Power capacity can be uplifted to three megabytes on request. Currently, 190 computer equipment racks are housed there and that is projected to reach 341 racks by June 2011. Approximately 281 hardware devices are installed, including mainframe super domain servers, network switch devices, blade enclosures, a tape library, storage area network and storage devices. There are six data storage silos currently installed, comprising 558 terabytes of storage. Critical systems such as CorpTech’s finance and payroll systems and Transport’s licence and registration systems use cross-site data replication, cross-site data backup and cross-site server disaster recovery. With the 317 Edward Street CITEC site, Polaris take-up is planned and progressing ahead of schedule. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1081955"></A>
 <Hansard-Bold>
 CHAIR:</Hansard-Bold>
- I am pleased I asked that one. The fact that I asked it and the member for Currumbin did not probably indicates that she is more up-to-date with things than I am. I would like now to refer to the reference in the SDS to the department working with the Australian government and Queensland government agencies on the broadband agenda and the establishment of the office in your department to focus on the national broadband network. There have been recent announcements regarding the NBN Co and Telstra. Can you advice the committee of the current status of the NBN in relation to Queensland and the role of your department in this major initiative? </Hansard-Body>
+ I am pleased I asked that one. The fact that I asked it and the member for Currumbin did not probably indicates that she is more up-to-date with things than I am. I would like now to refer to the reference in the SDS to the department working with the Australian government and Queensland government agencies on the broadband agenda and the establishment of the office in your department to focus on the national broadband network. There have been recent announcements regarding the NBN Co and Telstra. Can you advise the committee of the current status of the NBN in relation to Queensland and the role of your department in this major initiative? </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1081957"></A>
 <Hansard-Member-Up>
@@ -4715,7 +4715,7 @@ Mr CHOI:</Hansard-Member-Up>
 <A ID="pgfId-1081965"></A>
 <Hansard-Member-Up>
 Mr SCHWARTEN:</Hansard-Member-Up>
- I thank the honourable member for the question. ‘One government’ refers to the departments of the Queensland government acting together as a single enterprise, especially in respect to ICT and ICT related investment. It encourages departments and CEOs to develop, commit to and act upon a shared, whole-of-government ICT investment road map that delivers customer facing service improvements, as well as improvements to internal government operations. An example of the one government approach is the use of CITEC as the core infrastructure and data centre provider for departments, whole-of-government procurement arrangements such as the Microsoft telecommunications arrangement and a common attitude towards the management of risks and benefits that considers risks and benefits to the government as a whole. The one government approach is also reflected in the new whole-of-government ICT governance arrangements. </Hansard-Body>
+ I thank the honourable member for the question. ‘One government’ refers to the departments of the Queensland government acting together as a single enterprise, especially in respect to ICT and ICT related investment. It encourages departments and CEOs to develop, commit to and act upon a shared, whole-of-government ICT investment road map that delivers customer facing service improvements, as well as improvements to internal government operations. An example of the one government approach is the use of CITEC as the core infrastructure and data centre provider for departments, whole-of-government procurement arrangements such as the Microsoft and telecommunications arrangements and a common attitude towards the management of risks and benefits that considers risks and benefits to the government as a whole. The one government approach is also reflected in the new whole-of-government ICT governance arrangements. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1081966"></A>
 Basically, the longer you live the more you see things revisited. The gentleman sitting at my left was ‘Mr Computer’. He ran the Queensland computer services for the whole of government. Then we decided that we would let departments do as they pleased basically, and now we are bringing it back under one whole-of-government approach. We do it with cars, we are doing it with our maintenance strategies and we are doing it with employee housing. Increasingly, we are going back to, in my view, the place we should never have left. Thirty-odd years ago the decision was made to go to free range and let everybody put flowers in their hair and do all the other things that they did. That is what society did so that is what government did. Increasingly, we are becoming tighter in our responses. </Hansard-Body>
@@ -4723,7 +4723,7 @@ Basically, the longer you live the more you see things revisited. The gentleman 
 <A ID="pgfId-1081968"></A>
 The implementation of the policy for the one government project is by Smart Service Queensland and the Department of the Premier and Cabinet. This project aims to create a sense of unity and cohesion across the Public Service and create a single public face to government services. My kids tell me that they do not want to go onto different sites looking for Queensland government departments. They want to go onto one site for the whole of government of Australia. Whether it is to pay for dog licence fees, checking boat registration or applying to go to university, they want to be able to do that on one site. A baby of four-and-a-half years can have an iPad to read <Hansard-Italic>
 Wind in the Willows.</Hansard-Italic>
- Her father might say, ‘How do you turn the page?’ and she will say, ‘Like this’. That comes from kids of four-and-a-half years of age. That is what the public is expecting from us. They do not want a different face for government. We have a whole-of-government office at Shared Services and people still come through the door, but the next generation will want to do it and do it once. That is where we are aiming to get.</Hansard-Body>
+ Her father might say, ‘How do you turn the page?’ and she will say, ‘Like this’. That comes from kids of four-and-a-half years of age. That is what the public is expecting from us. They do not want a different face for government. We have a whole-of-government office at Smart Service and people still come through the door, but the next generation will want to do it and do it once. That is where we are aiming to get.</Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1086343"></A>
 <Hansard-Bold>
@@ -4810,7 +4810,7 @@ Mr SCHWARTEN:</Hansard-Member-Up>
 <A ID="pgfId-1086371"></A>
 <Hansard-Bold>
 Mr Grierson:</Hansard-Bold>
- The increase in staff--I think this is where you are heading--in the procurement area is the additional Print Management Unit, which has been added into the procurement area. It came out of Goprint and is now sitting in the procurement division. </Hansard-Body>
+ The increase in staff--I think this is where you are heading--in the procurement area is the additional Print Management Unit, which has been added into the procurement area. It came out of the Goprint Review and is now sitting in the procurement division. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1086374"></A>
 <Hansard-Member-Up>
@@ -4862,7 +4862,7 @@ Mr Grierson:</Hansard-Bold>
 <A ID="pgfId-1086394"></A>
 <Hansard-Bold>
 Ms Jelliffe:</Hansard-Bold>
- The unit costs approximately $800,000 per annum. </Hansard-Body>
+ The unit costs approximately $1 million per annum. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1086395"></A>
 <Hansard-Member-Up>
@@ -4977,7 +4977,7 @@ Mrs STUCKEY:</Hansard-Member-Up>
 <A ID="pgfId-1086426"></A>
 <Hansard-Member-Up>
 Mr SCHWARTEN:</Hansard-Member-Up>
- It is up to each of the agencies--you would have to ask the DPI minister or whoever. We supply the vehicles to them. What they then do with them is none of our business. We just get the lease payments. We set the platform for what they do in terms of the specifications of the engines--all that sort of stuff. All the GBG stuff is our business up to a point, but then where they drive them and who uses them and all the rest of it is a matter for agencies. </Hansard-Body>
+ It is up to each of the agencies--you would have to ask the DPI minister or whoever. We supply the vehicles to them. What they then do with them is none of our business. We just get the lease payments. We set the platform for what they do in terms of the specifications of the engines--all that sort of stuff. All the GVG stuff is our business up to a point, but then where they drive them and who uses them and all the rest of it is a matter for agencies. </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1086427"></A>
 <Hansard-Bold>
@@ -5147,7 +5147,7 @@ CHAIR:</Hansard-Bold>
 <A ID="pgfId-1091141"></A>
 <Hansard-Member-Up>
 Mr CHOI:</Hansard-Member-Up>
- Minister, page 1-156 of the SDS outlines a very ambiguous ICT agenda. Can you advise the committee what role the local ICT industry has in delivering that agenda? </Hansard-Body>
+ Minister, page 2-156 of the SDS outlines a very ambitious ICT agenda. Can you advise the committee what role the local ICT industry has in delivering that agenda? </Hansard-Body>
 <Hansard-Body>
 <A ID="pgfId-1091142"></A>
 <Hansard-Member-Up>
